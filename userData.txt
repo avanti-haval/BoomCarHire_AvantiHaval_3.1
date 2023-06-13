@@ -1,0 +1,11 @@
+1001,aniruddha2806,haval,Anirudha,Haval,2022-12-27,1
+1002,avanti,haval,Avanti,Haval,2022-12-27,1
+1003,rutuparn123,vidya123,Rutuparn,Vaidya,2022-12-28,0
+1004,saatvik123,rajadhyaksh123,Saatvik,Rajadhyaksh,2022-12-28,0
+1005,aaradhy123,haval123,Aaradhy,Haval,2022-12-28,1
+1006,ishwari123,deshpande123,Ishwari,Deshpande,2022-12-28,1
+1007,ishaan123,upadhye123,Ishaan,Upadhye,2022-12-28,1 
+1008,sharvil123,desai123,Sharvil,Desai,2022-12-28,1
+1009,sukrut123,kulkarni123,Sukrut,Kulkarni,2022-12-29,1
+1010,samyak123,prabhu123,Samyak,Prabhu,2022-12-30,1
+1011,kaivalya123,kaivalya123,Kaivalya,Karkhanis,2023-01-03,0
